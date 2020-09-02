@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="parkingLot" type="TypeScript" />
+      <mapping pattern="player" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
