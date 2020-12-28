@@ -4,6 +4,7 @@
       <mapping pattern="parkingLot" type="TypeScript" />
       <mapping pattern="test" type="Vue.js" />
       <mapping pattern="player" type="Vue.js" />
+      <mapping ext="wpy" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
