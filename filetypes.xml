@@ -2,9 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="parkingLot" type="TypeScript" />
-      <mapping ext="wpy" type="Vue.js" />
       <mapping pattern="navbarcomp" type="Wepy script" />
-      <removed_mapping ext="wpy" type="Wepy script" />
       <removed_mapping pattern="test" approved="true" type="Vue.js" />
       <removed_mapping pattern="navbarcomp.wpy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="player" approved="true" type="Vue.js" />
