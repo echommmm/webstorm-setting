@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.yunxuetang.com.cn" />
           <option name="userName" value="echo" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git-inner.yunxuetang.com.cn" />
+          <option name="userName" value="gem" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
