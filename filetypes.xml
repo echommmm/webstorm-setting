@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="parkingLot" type="TypeScript" />
-      <removed_mapping ext="wxml" approved="true" type="HTML" />
       <removed_mapping pattern="navbarcomp.wpy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="player" approved="true" type="Vue.js" />
       <removed_mapping pattern="test" approved="true" type="Vue.js" />
