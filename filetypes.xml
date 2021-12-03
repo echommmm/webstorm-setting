@@ -1,7 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="parkingLot" type="TypeScript" />
       <removed_mapping pattern="navbarcomp.wpy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="player" approved="true" type="Vue.js" />
